@@ -25,6 +25,11 @@
 
 # Formación adicional
 - [Cursos OpenWebinars](https://openwebinars.net/@axW2ynEv/) 
+   - [Carrera Especialista Tester con JUnit 5](https://openwebinars.net/cert/ViaL)
+   - [Carrera Experto en Lombok](https://openwebinars.net/cert/vltT)
+   - [Carrera Programador Java Web](https://openwebinars.net/cert/9wT7)
+   - [Carrera Programador web con JavaEE/Jakarta EE](https://openwebinars.net/cert/CBtT)
+   - [Carrera Desarrollador Java](https://openwebinars.net/cert/9wT7) 
 
 # Historial laboral
 
