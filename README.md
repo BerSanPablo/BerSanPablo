@@ -1,4 +1,4 @@
-# Curriculum Pablo Bernal Sánchez
+# Pablo Bernal Sánchez
 
 ## Datos de contacto
 
