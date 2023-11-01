@@ -1,9 +1,14 @@
 # Curriculum Pablo Bernal Sánchez
 
 ## Datos de contacto
-    Email: bersanpablo@gmail.com
 
-    Teléfono móvil: 605858847
+  <a href="https://www.linkedin.com/in/pablo-bernal-s%C3%A1nchez-b20b0127b/">
+      <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  :email: bersanpablo@gmail.com
+
+  :iphone: 605858847
 
 # Formación
 - **Grado Superior Desarrolo de Aplicaciones Web** | IES Alixar, Castilleja de la Cuesta
