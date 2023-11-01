@@ -8,7 +8,7 @@
   
   :email: bersanpablo@gmail.com
 
-  :iphone: 605858847
+  :iphone: +34 605 858 847
 
 # Formación
 - **Grado Superior Desarrolo de Aplicaciones Web** | IES Alixar, Castilleja de la Cuesta
